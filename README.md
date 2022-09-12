@@ -1,9 +1,6 @@
 ![Header](https://github.com/VitaliyKhmil/VitaliyKhmil/blob/main/assets/photo.png)
 
-## GOIT student. Current course - Node.js
-
-
-
+## GOIT student. In progress - Node.js
 
 ### Languages and Tools:
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT&logoColor=47C5FB)
