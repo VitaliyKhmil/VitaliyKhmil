@@ -1,4 +1,4 @@
-[![Header](https://github.com/VitaliyKhmil/VitaliyKhmil/blob/main/assets/photo.png)]
+![Header](https://github.com/VitaliyKhmil/VitaliyKhmil/blob/main/assets/photo.png)
 
 ## GOIT student. Current course - Node.js
 
